@@ -1,0 +1,30 @@
+.wrapper {
+    display: flex;
+    width:100%;
+    height:100%;
+    align-items:stretch;
+}
+
+.sidebar {
+    width: 20%;
+    height:100%;
+}
+
+/* .container {
+    background-image: url(./Images/wallhaven-704766-2.jpg);
+    width:80%;
+    height: 100%;
+}; */
+
+.contentWrap{
+    background-image:url(./Images/wallhaven-704766-2.jpg);
+    width:100%;
+    height:100vh;
+}
+
+.home{
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+    margin:auto;
+}
